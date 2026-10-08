@@ -6,14 +6,14 @@
 Music, messages and plans in a compact desktop island.<br>
 Your favourite apps in a floating dock.</p>
 
-<p align="center"><strong><a href="https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.5.exe">Download Pulse for Windows ↓</a></strong><br>
-Free beta · Windows 10 / 11 · x64 · version 0.13.5</p>
+<p align="center"><strong><a href="https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.6.exe">Download Pulse for Windows ↓</a></strong><br>
+Free beta · Windows 10 / 11 · x64 · version 0.13.6</p>
 
 <p align="center"><a href="https://pulse-desktop.pp.ua/">Website</a> · <a href="https://github.com/VP-code98/pulse-downloads/releases/latest">Release details</a> · <a href="README.md">Русский</a></p>
 
 <img src="assets/workspace-dock.png" alt="Pulse on a Windows desktop with its top bar, music island and floating app dock" width="1100">
 
-Pulse adds a notification island, a translucent top bar and a floating application dock to Windows. Hover over the island to see more, or move your pointer to the bottom edge to reach your apps. Screenshots use demonstration data; the current app interface is in Russian.
+Pulse adds a notification island, a translucent top bar and a floating application dock to Windows. Hover over the island to see more, or move your pointer to the bottom edge to reach your apps. The complete app interface is available in English, Ukrainian and Russian. Select **English** in **Interface language** at the top of settings; changes apply immediately and persist after restart. Connections and selected chats are preserved. Screenshots use demonstration data. The website offers Russian and Ukrainian with a RU/UA switcher.
 
 > **Gmail verification is in progress.** Google has verified the Pulse branding; review of Gmail data access is pending. Gmail is not yet offered for unrestricted public onboarding, and Google may display an unverified-app warning. Other features do not require a Google connection.
 
@@ -32,22 +32,22 @@ Pulse adds a notification island, a translucent top bar and a floating applicati
 
 ## Plan something, then get on with your day
 
-Click the top-bar date or time, select a day, choose **«+ Напоминание или заметка»**, enter your text and reminder time, then save. Reminders appear in the island; notes stay attached to the selected date.
+Click the top-bar date or time, select a day, choose **Add reminder or note**, enter your text and reminder time, then save. Reminders appear in the island; notes stay attached to the selected date.
 
 <img src="assets/workspace-calendar.png" alt="Creating a local reminder in the Pulse calendar on a Windows desktop" width="1100">
 
 ## Game mode
 
-Hover over the island and switch **«Игровой режим»** on. Settings let you pause the player display and mail polling while Telegram, Viber, timers and reminders keep working. Top-bar blur is disabled. Automatic activation currently follows the active CS2 process; use manual activation for other games. No FPS improvement is claimed.
+Hover over the island and switch **Game mode** on. Settings let you pause the player display and mail polling while Telegram, Viber, timers and reminders keep working. Top-bar blur is disabled. Automatic activation currently follows the active CS2 process; use manual activation for other games. No FPS improvement is claimed.
 
 <img src="assets/game.png" alt="The game mode toggle inside the Pulse island" width="500">
 
 ## Install and set up
 
-1. [Download the installer](https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.5.exe) and run it. No Node.js or source checkout is needed.
+1. [Download the installer](https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.6.exe) and run it. No Node.js or source checkout is needed.
 2. New installations default to **Program Files** and request administrator approval.
-3. Open **«Настройки и напоминания»** from the Pulse tray icon. Enable **«Верхняя панель из матового стекла»** and **«Плавающий док»**, then click **«Сохранить настройки»**. Both features are off after a fresh installation.
-4. Under **«Подключения»**, connect your services and choose your chats. Telegram uses its own session; Viber Desktop must stay running, and its window may be minimized.
+3. Open **Settings and reminders** from the Pulse tray icon. Enable **Frosted-glass top bar** and **Floating dock**, then click **Save settings**. Both features are off after a fresh installation.
+4. Under **Connections**, connect your services and choose your chats. Telegram uses its own session; Viber Desktop must stay running, and its window may be minimized.
 
 The installer is currently **unsigned**, so Windows may show an unknown-publisher or SmartScreen warning. This release targets Windows x64; Windows ARM support is not claimed. Verify the release using [SHA256SUMS.txt](SHA256SUMS.txt).
 
@@ -57,7 +57,7 @@ For an update, exit Pulse from its tray icon and run the new installer. Settings
 
 ### Downloads
 
-[![Installer downloads for 0.13.5](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.5/Pulse-Setup-0.13.5.exe?label=Downloads%200.13.5&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.5)
+[![Installer downloads for 0.13.6](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.6/Pulse-Setup-0.13.6.exe?label=Downloads%200.13.6&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.6)
 
 This counter tracks GitHub downloads of this version's installer and refreshes automatically with a short delay. Repeat downloads count too; it does not measure unique users or installations.
 
