@@ -1,0 +1,17 @@
+name: Предложить улучшение / Suggest a feature
+description: Расскажи, что помогло бы тебе пользоваться Пульсом.
+title: "[Идея] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую задачу хочется решить? / What problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Как ты представляешь решение? / Your suggestion
+    validations:
+      required: true

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56" role="img" aria-label="Скачать Пульс для Windows">
+  <defs><linearGradient id="stroke" x2="1" y2="1"><stop stop-color="#64e3d1"/><stop offset="1" stop-color="#aa87ff"/></linearGradient></defs>
+  <rect x="1" y="1" width="298" height="54" rx="16" fill="#151c27" stroke="url(#stroke)" stroke-width="2"/>
+  <path d="M24 20h7v7h-7zm9 0h7v7h-7zm-9 9h7v7h-7zm9 0h7v7h-7z" fill="#91e8d9"/>
+  <text x="55" y="33" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#ffffff">Скачать для Windows</text>
+  <path d="M272 19v15m-6-6 6 6 6-6m-13 11h14" fill="none" stroke="#91e8d9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

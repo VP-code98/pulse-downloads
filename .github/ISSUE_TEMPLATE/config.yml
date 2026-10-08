@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Инструкция / Setup guide
+    url: https://github.com/VP-code98/pulse-downloads/blob/main/docs/QUICKSTART.md
+    about: Настройки, подключения и создание напоминаний.
+  - name: Связаться с автором / Private support
+    url: https://pulse-desktop.pp.ua/contact
+    about: Для обращений с личными данными. Контактная почта — poljukhvlad@icloud.com.

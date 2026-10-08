@@ -1,0 +1,46 @@
+name: Сообщить об ошибке / Report a bug
+description: Проблема с установкой, настройками или работой Пульса.
+title: "[Ошибка] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Спасибо за проверку Пульса. Эта заявка публична: не прикладывай пароли, коды входа или личную переписку. Для частных вопросов: poljukhvlad@icloud.com. English reports are welcome."
+  - type: input
+    id: pulse-version
+    attributes:
+      label: Версия Пульса / Pulse version
+      placeholder: "0.13.5"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Версия Windows / Windows version
+      placeholder: "Windows 11 24H2, x64"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить / Steps to reproduce
+      description: "Что нажал и что произошло?"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Что должно было произойти / Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Что произошло / Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Скриншоты и дополнительные сведения / Screenshots and details
+      description: "Проверь, что на скриншотах нет личных данных."
