@@ -55,6 +55,12 @@ For an update, exit Pulse from its tray icon and run the new installer. Settings
 
 [Setup guide with screenshots, in Russian](docs/QUICKSTART.md) · [FAQ, in Russian](docs/FAQ.md)
 
+### Downloads
+
+[![Installer downloads for 0.13.5](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.5/Pulse-Setup-0.13.5.exe?label=Downloads%200.13.5&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.5)
+
+This counter tracks GitHub downloads of this version's installer and refreshes automatically with a short delay. Repeat downloads count too; it does not measure unique users or installations.
+
 ## Feedback and privacy
 
 - [Report a bug](https://github.com/VP-code98/pulse-downloads/issues/new?template=bug_report.yml)
