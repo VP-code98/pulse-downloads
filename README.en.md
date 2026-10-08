@@ -61,6 +61,22 @@ For an update, exit Pulse from its tray icon and run the new installer. Settings
 
 This counter tracks GitHub downloads of this version's installer and refreshes automatically with a short delay. Repeat downloads count too; it does not measure unique users or installations.
 
+## Support Pulse
+
+If Pulse makes your day easier, you can support its development with a voluntary donation. Any amount is welcome. The app is free to use; a donation is not required to access its features.
+
+**USDT · Tron (TRC20)**
+
+```text
+TR6iMMXPhUjoFsaXdZUrpA3uv1aei4ueKb
+```
+
+<img src="assets/support-usdt-trc20.png" alt="Pulse support address QR code: USDT on Tron TRC20" width="200" height="200">
+
+Send only **USDT on the Tron (TRC20) network**. The QR code contains the recipient address; choose the network in your wallet. Check the network fee and minimum deposit amount before sending.
+
+[Open the support section and copy the address →](https://pulse-desktop.pp.ua/#support)
+
 ## Feedback and privacy
 
 - [Report a bug](https://github.com/VP-code98/pulse-downloads/issues/new?template=bug_report.yml)
