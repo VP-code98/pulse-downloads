@@ -65,6 +65,8 @@ This counter tracks GitHub downloads of this version's installer and refreshes a
 
 If Pulse makes your day easier, you can support its development with a voluntary donation. Any amount is welcome. The app is free to use; a donation is not required to access its features.
 
+**[Donate by card via PrivatBank ↗](https://www.privat24.ua/send/ki5x3)**
+
 **USDT · Tron (TRC20)**
 
 ```text
