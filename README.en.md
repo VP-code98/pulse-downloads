@@ -6,8 +6,8 @@
 Notifications from the Telegram chats, groups and channels you choose.<br>Follow a single topic within a forum group.<br>
 Your favourite apps in a floating dock.</p>
 
-<p align="center"><strong><a href="https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.7.exe">Download Pulse for Windows ↓</a></strong><br>
-Free beta · Windows 10 / 11 · x64 · version 0.13.7</p>
+<p align="center"><strong><a href="https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.8.exe">Download Pulse for Windows ↓</a></strong><br>
+Free beta · Windows 10 / 11 · x64 · version 0.13.8</p>
 
 <p align="center"><a href="https://pulse-desktop.pp.ua/">Website</a> · <a href="https://github.com/VP-code98/pulse-downloads/releases/latest">Release details</a> · <a href="README.md">Русский</a></p>
 
@@ -65,7 +65,7 @@ Hover over the island and switch **Game mode** on. Settings let you pause the pl
 
 ## Install and set up
 
-1. [Download the installer](https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.7.exe) and run it. No Node.js or source checkout is needed.
+1. [Download the installer](https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.8.exe) and run it. No Node.js or source checkout is needed.
 2. New installations default to **Program Files** and request administrator approval.
 3. Open **Settings and reminders** from the Pulse tray icon. Enable **Frosted-glass top bar** and **Floating dock**, then click **Save settings**. Both features are off after a fresh installation.
 4. Under **Connections**, connect your services and choose your chats. Telegram uses its own session; Viber Desktop must stay running, and its window may be minimized.
@@ -78,7 +78,7 @@ For an update, exit Pulse from its tray icon and run the new installer. Settings
 
 ### Downloads
 
-[![Installer downloads for 0.13.7](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.7/Pulse-Setup-0.13.7.exe?label=Downloads%200.13.7&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.7)
+[![Installer downloads for 0.13.8](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.8/Pulse-Setup-0.13.8.exe?label=Downloads%200.13.8&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.8)
 
 This counter tracks GitHub downloads of this version's installer and refreshes automatically with a short delay. Repeat downloads count too; it does not measure unique users or installations.
 

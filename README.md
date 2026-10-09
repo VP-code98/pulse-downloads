@@ -9,11 +9,11 @@
 Любимые приложения — в лёгком плавающем доке.</p>
 
 <p align="center">
-  <a href="https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.7.exe"><img src="assets/download-windows.svg" alt="Скачать Пульс для Windows" width="300" height="56"></a>
+  <a href="https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.8.exe"><img src="assets/download-windows.svg" alt="Скачать Пульс для Windows" width="300" height="56"></a>
 </p>
 
 <p align="center">
-  <strong>Бесплатная бета · Windows 10 / 11 · x64 · версия 0.13.7</strong><br>
+  <strong>Бесплатная бета · Windows 10 / 11 · x64 · версия 0.13.8</strong><br>
   <a href="https://pulse-desktop.pp.ua/">Сайт</a> ·
   <a href="docs/QUICKSTART.md">Первый запуск</a> ·
   <a href="https://github.com/VP-code98/pulse-downloads/releases/latest">Все файлы выпуска</a> ·
@@ -99,7 +99,7 @@
 
 ## Скачать и начать
 
-1. [Скачай установщик Пульса 0.13.7](https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.7.exe) и запусти его. Node.js и исходники не нужны.
+1. [Скачай установщик Пульса 0.13.8](https://github.com/VP-code98/pulse-downloads/releases/latest/download/Pulse-Setup-0.13.8.exe) и запусти его. Node.js и исходники не нужны.
 2. Установи приложение. По умолчанию новая установка использует **Program Files**; Windows запросит права администратора.
 3. Через значок Пульса в системном трее открой **«Настройки и напоминания»**. Включи верхнюю панель и плавающий док, затем нажми **«Сохранить настройки»**. После новой установки панель и док выключены.
 4. В блоке **«Подключения»** подключи нужные сервисы и выбери чаты.
@@ -110,7 +110,7 @@
 
 ### Скачивания
 
-[![Скачивания установщика 0.13.7](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.7/Pulse-Setup-0.13.7.exe?label=Downloads%200.13.7&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.7)
+[![Скачивания установщика 0.13.8](https://img.shields.io/github/downloads/VP-code98/pulse-downloads/v0.13.8/Pulse-Setup-0.13.8.exe?label=Downloads%200.13.8&color=6558c9&style=flat-square&displayAssetName=false)](https://github.com/VP-code98/pulse-downloads/releases/tag/v0.13.8)
 
 Счётчик показывает загрузки установщика этой версии с GitHub и обновляется автоматически с небольшой задержкой. Повторные загрузки тоже учитываются; это не число пользователей или установок.
 
